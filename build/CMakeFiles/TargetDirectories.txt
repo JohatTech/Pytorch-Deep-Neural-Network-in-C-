@@ -1,0 +1,3 @@
+/home/johattech/Pytorch_projects/build/CMakeFiles/pytorch_project.dir
+/home/johattech/Pytorch_projects/build/CMakeFiles/edit_cache.dir
+/home/johattech/Pytorch_projects/build/CMakeFiles/rebuild_cache.dir
